@@ -9,7 +9,7 @@ export default class Players extends Component {
       <div className="Players">
         <iframe
           title={uniqueTitle}
-          src="https://open.spotify.com/embed/playlist/0XVxReRFFUe7Z5DFYPdOSU"
+          src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWY64wDtewQt"
           width={width}
           height={height}
           frameBorder="0"
