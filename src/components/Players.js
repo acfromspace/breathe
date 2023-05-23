@@ -9,15 +9,6 @@ export default class Players extends Component {
       <div className="Players">
         <iframe
           title={uniqueTitle}
-          src="https://open.spotify.com/embed/playlist/1su6mhUPJxkVvwhmBAwpPj"
-          width={width}
-          height={height}
-          frameBorder="0"
-          allowtransparency="true"
-          allow="encrypted-media"
-        />
-        <iframe
-          title={uniqueTitle}
           src="https://open.spotify.com/embed/playlist/0XVxReRFFUe7Z5DFYPdOSU"
           width={width}
           height={height}
@@ -28,6 +19,15 @@ export default class Players extends Component {
         <iframe
           title={uniqueTitle}
           src="https://open.spotify.com/embed/playlist/37i9dQZF1DWTTHy0vndijk"
+          width={width}
+          height={height}
+          frameBorder="0"
+          allowtransparency="true"
+          allow="encrypted-media"
+        />
+        <iframe
+          title={uniqueTitle}
+          src="https://open.spotify.com/embed/playlist/37i9dQZF1DXarebqD2nAVg"
           width={width}
           height={height}
           frameBorder="0"
@@ -47,7 +47,7 @@ export default class Players extends Component {
           title={uniqueTitle}
           width={width}
           height={height}
-          src="https://www.youtube.com/embed/2atQnvunGCo"
+          src="https://www.youtube.com/embed/MVPTGNGiI-4"
           frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
