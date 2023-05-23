@@ -6,7 +6,7 @@ export default class Header extends Component {
   render() {
     return (
       <div className="Header">
-        <img src={astronaut} className="App-logo" alt="acfromspace" />
+        <img src={astronaut} className="App-logo" alt="ctrlaltdeleon" />
       </div>
     );
   }

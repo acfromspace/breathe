@@ -1,6 +1,6 @@
 <!-- HEADING -->
 
-<h1 align="center">mindstone</h1>
+<h1 align="center">cozysounds</h1>
 
 <!-- DESCRIPTION -->
 
@@ -8,14 +8,14 @@
   <span role="img" aria-label="Sparkles">✨</span>
 </h3>
 <p align="center">
-  <strong>Personal environment to the aesthetic of vibes.</strong><br>
+  <strong>Personal environment to the aesthetic of sounds.</strong><br>
   Curated music playlists from Soundcloud, Spotify, and YouTube.
 </p>
 
 <!-- BADGES -->
 
 <p align="center">
-    <a href="https://github.com/acfromspace/mindstone/blob/master/LICENSE">
+    <a href="https://github.com/ctrlaltdeleon/cozysounds/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
     <a href="https://www.repostatus.org/#unsupported">
@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/10361542/71697412-c8fd9000-2d6c-11ea-8bd6-e74bbc44f8aa.png">
 </p>
 
-[_mindstone_](https://mindstone.netlify.com/) is a website with the following features:
+[_cozysounds_](https://cozysounds.netlify.com/) is a website with the following features:
 
 - **Astronaut.** That's supposed to be me wandering the expanse of space and also being dizzy.
 - **Music playlists.** From Soundcloud, Spotify, and Youtube.
