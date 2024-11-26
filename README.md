@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/10361542/71697412-c8fd9000-2d6c-11ea-8bd6-e74bbc44f8aa.png">
 </p>
 
-[_cozysounds_](https://cozysounds.netlify.com/) is a website with the following features:
+[_cozysounds_](https://cozysounds.netlify.app/) is a website with the following features:
 
 - **Astronaut.** That's supposed to be me wandering the expanse of space and also being dizzy.
 - **Music playlists.** From Soundcloud, Spotify, and Youtube.
